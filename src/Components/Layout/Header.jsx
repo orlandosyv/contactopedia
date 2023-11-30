@@ -1,4 +1,4 @@
-import logo from "./images/reactLogo.png";
+import logo from "../../images/reactLogo.png";
 
 export default function Header() {
   return (
@@ -13,7 +13,7 @@ export default function Header() {
           style={{ height: "35px", verticalAlign: "top" }}
         ></img>
         <span className="h1 pt-4 text-white-50 border-bottom border-white">
-          COUNTER GAME!
+          CONTACTOPEDIA
         </span>
         <p className="h4 pt-4 text-white-50">Attack and Defend</p>
       </div>
